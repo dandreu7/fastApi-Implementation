@@ -77,3 +77,4 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 *.iml
 /.idea
+__pycache__/main.cpython-312.pyc
